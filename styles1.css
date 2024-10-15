@@ -124,12 +124,11 @@ p {
 /* Blockquotes */
 blockquote {
   background-color: var(--theme-quote-bg);
-  padding: 1rem;
   margin: 1.5rem 0;
   font-style: italic;
   position: relative;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   padding-left: 1.5rem; /* Space for the left border */
 }
 
