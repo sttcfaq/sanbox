@@ -42,8 +42,9 @@ Pour donner un peu de contexte sur la manière dont certains lieux ont été loc
 
 ## Piqueboufigue
 
-> Le mec est déjà devant toi quand tu te traînes à la boulangerie
 > 
+> Le mec est déjà devant toi quand tu te traînes à la boulangerie
+>  
 
 Aucune indication plus précise sur la boulangerie fréquentée par Piqueboufigue. Une recherche Google indique 2 établissements, mais on vérifie tout de même sur le registre du commence pour les sociétés enregistrées à Astaffort ayant pour code [APE 10.71C](https://www.insee.fr/fr/statistiques/7929127?sommaire=7763898) : Boulangerie et Boulangerie pâtisserie.
 
@@ -57,10 +58,9 @@ Nous avons 9 résultats à 4 adresses différentes. En vérifiant les dates d’
 
 ![01-Piqueboufigue-7RueJacquillon2024-10-02_15-46.png](img/01-Piqueboufigue-7RueJacquillon2024-10-02_15-46.png)
 
-02:45
-
-> Pour ce conneau, révision de l'alphabet en commençant par la lettre H : Hôpital, deuxième à droite après le pont mais j'ai pas le temps de t'y déposer, d'ailleurs je suis à pieds ce serait trop galère.
 > 
+> Pour ce conneau, révision de l'alphabet en commençant par la lettre H : Hôpital, deuxième à droite après le pont mais j'ai pas le temps de t'y déposer, d'ailleurs je suis à pieds ce serait trop galère.
+>  
 
 le [Centre Hospitalier Agen-Nérac](http://www.ch-agen-nerac.fr/) est l’hôpital le plus proche d’Astaffort. Il se situe à une trentaine de minutes de route, à Nérac. Il est en effet à la deuxième à droite après le Pont Neuf. 
 
@@ -70,9 +70,9 @@ le [Centre Hospitalier Agen-Nérac](http://www.ch-agen-nerac.fr/) est l’hôpit
 
 ![01-Piqueboufigue-80AlleeDAlbret2024-10-02_15-46.png](img/01-Piqueboufigue-80AlleeDAlbret2024-10-02_15-46.png)
 
-
-> Même au Musée, devant toi, c'est le même connard.
 > 
+> Même au Musée, devant toi, c'est le même connard.
+>  
 
 Cela fait partie des rares endroits que je n’ai réussi à localiser. Vos idées sont les bienvenues.
 
@@ -84,15 +84,15 @@ Cela fait partie des rares endroits que je n’ai réussi à localiser. Vos idé
 
 Le road trip égrène 19 références géographiques qui nous permet de suivre plus ou moins précisément le périple du narrateur. On ne va pas tout détailler, vous pouvez vous reporter à la carte. Certains lieux méritent tout de même quelques explications.
 
-
-> Je me repère avec Golfech
 > 
+> Je me repère avec Golfech
+>  
 
 Golfech fait bien sûr référence à la [centrale nucléaire](https://www.edf.fr/centrale-nucleaire-golfech) du même nom, qui se voit de loin. 
 
 ![02-LeShift-golfech.png](img/02-LeShift-golfech.png)
 
-
+> 
 > Arrivé à Layrac, je prends le virage
 > 
 
@@ -108,7 +108,7 @@ Il y a 2 routes possibles entre Astaffort et Layrac : la Nationale 21 et la Dép
 
 ![02-LeShift-11-cheminDeMonseigne10-02_15-46.png](img/02-LeShift-11-cheminDeMonseigne10-02_15-46.png)
 
-
+> 
 > J'ai déjà passé le [pont de l’A62](https://www.google.fr/maps/@44.1422694,0.6612244,3a,82.2y,9.25h,79.93t/data=!3m8!1e1!3m6!1sFr7BXtknec1T0nWtybsVng!2e0!5s20181101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.068613154202083%26panoid%3DFr7BXtknec1T0nWtybsVng%26yaw%3D9.249810854799534!7i13312!8i6656?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkzMC4wIKXMDSoASAFQAw%3D%3D)
 > 
 
@@ -116,15 +116,15 @@ Il y a 2 routes possibles entre Astaffort et Layrac : la Nationale 21 et la Dép
 
 Attention, il y a les gendarmes !
 
-
-> Encore plus super quand tu sais qu’on arrive dans un village limité à 50 à 20m d’une zone 30.
 > 
+> Encore plus super quand tu sais qu’on arrive dans un village limité à 50 à 20m d’une zone 30.
+>  
 
 L’[entrée du bourg de Laspeyre](https://www.google.fr/maps/@44.1446581,0.7873478,3a,75y,77.69h,77.5t/data=!3m8!1e1!3m6!1sIZMxhq5fNG3-i3AJqn5RIQ!2e0!5s20210301T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D12.5%26panoid%3DIZMxhq5fNG3-i3AJqn5RIQ%26yaw%3D77.69!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D) correspond à la chanson. Avant d’arriver au village, il y a une longue portion avec une ligne continue et un fossé arboré à droite. Le village est bien sûr limité à 50 et dispose d’une zone 30 ! Problème, le panneau n’est pas visible sur Street View en [2018](https://www.google.fr/maps/@44.1446497,0.787314,3a,75y,77.69h,77.5t/data=!3m8!1e1!3m6!1sPs0bC8cfkgoRHFCiXzVEEg!2e0!5s20181101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D12.5%26panoid%3DPs0bC8cfkgoRHFCiXzVEEg%26yaw%3D77.69!7i13312!8i6656?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D). Il n’apparaît qu’au passage suivant en 2021. Un doute subsiste donc sur cette localisation.
 
 ![02-LeShift-zone30.png](img/02-LeShift-zone30.png)
 
-
+> 
 > Il faut que j’achète une canette de Monster, mais le Proxi il est fermé entre midi et deux.
 > 
 
@@ -134,7 +134,7 @@ Le Proxi de Moissac est définitivement fermé. Un Intermarché faisant la journ
 
 ![02-LeShift-intermarche-Moissac.png](img/02-LeShift-intermarche-Moissac.png)
 
-
+> 
 > Je vais aller boire un café au café de la place
 > 
 
@@ -144,7 +144,7 @@ A partir de ce moment, le récit devient plus compliqué à suivre. Je n’ai pa
 
 ![02-LeShift-PlaceDelthilMoissac2024-10-07_17-18.png](img/02-LeShift-PlaceDelthilMoissac2024-10-07_17-18.png)
 
-
+> 
 > Et y a encore une rivière Pourquoi y a toujours au moins deux rivières dans un département ? Ça sert à rien les rivières, c’est pas moderne, ça existait déjà du temps de Mitterand. D’ailleurs ça c’est un canal, c’est un peu plus moderne et ça sert à rien non plus.
 > 
 
@@ -154,6 +154,7 @@ Sur le chemin du retour en passant le canal, on aperçoit à nouveau les réacte
 
 ## Ville de lumière
 
+> 
 > La route est sans surprise. Vinci me pompe en autoroute L’équivalant en ville d’un huitième de casse-croûte
 > 
 
@@ -161,13 +162,15 @@ On commence cette virée anxiogène par le péage de l’autoroute E72, gare de 
 
 ![025-e72-GoogleMaps.png](img/025-e72-GoogleMaps.png)
 
-> Tu prends Rocade intérieure ou Rocade extérieure ?
 > 
+> Tu prends Rocade intérieure ou Rocade extérieure ?
+>  
 
 ![026-A620-GoogleMaps.png](img/026-A620-GoogleMaps.png)
 
 Epineuse question que je me garderais bien trancher. J’avoue ne pas avoir tout saisi [aux explications](https://fr.wikipedia.org/wiki/P%C3%A9riph%C3%A9rique_de_Toulouse) sur le périphérique toulousain. Il compte actuellement 2X3 voies actuellement. J’ai lu des choses étonnantes dur des projets d’agrandissement, notamment en le surélevant ? Tu prends rocade Inférieure ou rocade supérieure ?
 
+> 
 > Pas v’nu pour un concert de world à la Mounède
 > 
 
@@ -177,7 +180,7 @@ Ce bâtiment du XVII° siècle aujourd’hui [centre international de séjour](h
 
 Les chances d’identifier un coin à champignons en restant assis derrière un écran d’ordinateur sont minces, examinons ce que nous avons :
 
-
+> 
 > Hé drôle, tu crois que je t’ai pas vu te garer style en louzedé avec ton putain de Touran 7 places le long du chemin en direction de Cuq ?
 > 
 
@@ -189,6 +192,7 @@ La D114 relie Astaffort à Cuq en 4.5km d’une route étroite, avec de longues 
 
 Nous n’aurons pas de coin à champignon, mais il reste des choses intéressantes à localiser : 
 
+> 
 > Je sais d’où tu viens, Espèce de malin. Je sais même que tu l’a loué chez Europcar, pile en face de la gare.
 > 
 
@@ -200,6 +204,7 @@ Une autre hypothèse pourrait être que le véhicule ait été loué à Agen, do
 
 ![036-120BdduPresidentCarnot-GoogleMaps.png](img/036-120BdduPresidentCarnot-GoogleMaps.png)
 
+> 
 > Et c’est pas la peine de te pointer sur les coups de 18h00 au bar du commerce avec l’idée géniale   de nous payer un pastis sans intention d’offrir l’apéro, mais plutôt de nous tirer les vers du nez.
 > 
 
@@ -211,6 +216,7 @@ Sur son [site web](https://bar-du-commerce.eatbu.com), on peut apercevoir les ta
 
 ![04-Champignon-BarDuCommerce-carte.png](img/04-Champignon-BarDuCommerce-carte.png)
 
+> 
 > On lâchera rien, même pas où se trouvent ces putains de toilettes.
 > 
 
@@ -222,6 +228,7 @@ A en juger par cette photo de l’intérieur, il est difficile de penser que la 
 
 ## Expectative
 
+> 
 > Au Music'Halle, dans une soirée, j’ai vu mixer Xavier
 > 
 
@@ -235,6 +242,7 @@ On trouve de nombreuses captations des rencontres d’Astaffort sur Youtube, ave
 
 ## Jeunes du dimanche
 
+> 
 > Pour commencer, la maison des jeunes, c'est dans la même direction que le cimetière
 > 
 
@@ -242,6 +250,7 @@ Moins de 150m séparent le cimetière de l’ancien abattoir, reconverti en mais
 
 ![043-11Av.delaGare-GoogleMaps.png](img/043-11Av.delaGare-GoogleMaps.png)
 
+>
 > En redescendant la Place de la Craste, j’aperçois le reste de la bande de pignoufs à glander au kiosque
 > 
 
@@ -251,6 +260,7 @@ Administrativement, le kiosque se situe place André Routier (maire entre 1925 e
 
 Pour être complet sur la Place André Routier, elle fait l’objet de [travaux de sécurisation](https://www.sudouest.fr/lot-et-garonne/astaffort/astaffort-un-projet-d-amenagement-des-espaces-publics-du-bourg-17439719.php). J’ai hâte de voir le prochain passage de la Google Car !
 
+> 
 > D'ailleurs, ils ont fait un clip de Hip hop avec leur téléphone, et ils ont bien du mérite parce qu'il a fallu faire plus de 30 bornes pour trouver un bâtiment de plus d'un étage. On a reconnu la cage d'escaliers du lycée pro, c'est bien, c'est ghetto,
 > 
 
@@ -258,6 +268,7 @@ Sans difficulté, on peut trouver les [4 lycées professionnels](https://college
 
 ![046-LyceeProfessionnelRegionalJeanMonnet-GoogleMaps.png](img/046-LyceeProfessionnelRegionalJeanMonnet-GoogleMaps.png)
 
+>
 > Je me souviens quand on était jeunes, les panneaux avec le chevreuil venaient à peine d'être posés sur l'A 62
 > 
 
@@ -267,6 +278,7 @@ Celui-ci n’a pas été le plus simple à localiser. Après avoir parcouru un b
 
 ## C'est quoi ces conneries
 
+>
 > Ici à Astaffort on n’a pas de supermarché, pas de quincaillerie et un très mauvais boulanger, faut se souquer le mercredi pour aller au marché.
 >
 
@@ -282,6 +294,7 @@ Enfin, nulle trace de marché le mercredi, mais il y en existe le [lundi](https:
 
 ## Denis
 
+> 
 > Denis t’es rien qu’un con. Je viendrai plus faire mon contrôle technique chez toi. Je préfère encore me faire chier à aller le faire à Castelculier.
 > 
 
@@ -291,6 +304,7 @@ Il existe un garage à Astaffort, mais celui-ci ne propose pas de contrôle tech
 
 ## CR47
 
+> 
 > J'espère qu'il vont pas nous faire jouer sur le stabilisé. Ouais remarque c'est ça ou leur foutu champ en jachère
 > 
 
