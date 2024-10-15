@@ -34,7 +34,7 @@ Pour faciliter la lecture chaque morceau est représenté par un calque qui peut
 
 Il s’agit de ma première réalisation avec [Umap](https://umap.openstreetmap.fr/fr/), je vous remercie pour votre indulgence.
 
-[![Explorer la carte](Image URL)]([img/AstaffortMods-AK47Map.png](https://umap.openstreetmap.fr/fr/map/astaffort-mods-geolocalisation-album-ak47_1123722))
+[![Explorer la carte](img/AstaffortMods-AK47Map.png)](https://umap.openstreetmap.fr/fr/map/astaffort-mods-geolocalisation-album-ak47_1123722)
 
 # Quelques détails
 
