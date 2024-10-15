@@ -1,0 +1,211 @@
+/*** Custom fonts ***/
+@import url('./fonts/fonts.css');
+
+/* General Styling */
+:root {
+  --theme-primary: #076DDD;
+  --theme-body: #171E27;
+  --theme-link: #076DDD;
+  --theme-muted: #64748b;
+  --theme-border: #EBEDF0;
+  --theme-bg: #fff;
+  --theme-code-bg: #fafafa;
+  --theme-code-color: #23272E;
+  --theme-quote-bg: #d4e7fd;
+  --theme-quote-border: #076DDD;
+  --max-content-width: 48rem;
+  --content-padding: 1rem;
+  --ui-font-display: "IBMPlexSans", "Inter", sans-serif;
+  --ui-font-monospace: "IBMPlexMono", "FiraCode", "FiraMono", monospace;
+  --code-blocks-font-size: 0.86em;
+  --h1-font-size: 2em;
+  --h2-font-size: 1.7em;
+  --h3-font-size: 1.5em;
+  --h4-font-size: 1.25em;
+  --h5-font-size: 1.1em;
+  --h6-font-size: 0.9em;
+  --heading-border-width: 4px; /* Thickness of the heading border */
+  --h1-color: #E4374B;
+  --h2-color: #0EB54F;
+  --h3-color: #076DDD;
+  --h4-color: #876CE0;
+  --h5-color: #D2A852;
+  --h6-color: #E0E5D5;
+}
+
+/* Body and text */
+body {
+  font-family: var(--ui-font-display);
+  color: var(--theme-body);
+  background-color: var(--theme-bg);
+  line-height: 1.85;
+  margin: 0 auto;
+  max-width: var(--max-content-width);
+  padding: var(--content-padding);
+  box-sizing: border-box;
+}
+
+/* Main Container */
+.container {
+  max-width: var(--max-content-width);
+  margin: 0 auto;
+  padding: var(--content-padding);
+  position: relative;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ui-font-display);
+  margin: 1.414rem 0 .5rem;
+  font-weight: inherit;
+  line-height: 1.42;
+  padding-left: 1.5rem; /* Space for the left border */
+  position: relative;
+  text-align: left; /* Ensure the headers are left-aligned */
+}
+
+h1 {
+  font-size: var(--h1-font-size);
+  color: var(--h1-color);
+}
+
+h2 {
+  font-size: var(--h2-font-size);
+  color: var(--h2-color);
+}
+
+h3 {
+  font-size: var(--h3-font-size);
+  color: var(--h3-color);
+}
+
+h4 {
+  font-size: var(--h4-font-size);
+  color: var(--h4-color);
+}
+
+h5 {
+  font-size: var(--h5-font-size);
+  color: var(--h5-color);
+}
+
+h6 {
+  font-size: var(--h6-font-size);
+  color: var(--h6-color);
+}
+
+/* Left border for headings */
+h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
+  content: '';
+  position: absolute;
+  left: -20px; /* Move the border outside the container */
+  top: 2px;
+  bottom: 2px;
+  width: var(--heading-border-width);
+  border-radius: 2px; /* Rounded border edges */
+}
+
+h1::before { background-color: var(--h1-color); }
+h2::before { background-color: var(--h2-color); }
+h3::before { background-color: var(--h3-color); }
+h4::before { background-color: var(--h4-color); }
+h5::before { background-color: var(--h5-color); }
+h6::before { background-color: var(--h6-color); }
+
+/* Links */
+a { color: var(--theme-link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Paragraphs */
+p {
+  font-size: 1rem;
+  margin-bottom: 1.3rem;
+}
+
+/* Blockquotes */
+blockquote {
+  background-color: var(--theme-quote-bg);
+  padding: 1rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  position: relative;
+  padding-left: 1.5rem; /* Space for the left border */
+}
+
+/* Left border for blockquotes */
+blockquote::before {
+  content: '';
+  position: absolute;
+  left: -20px; /* Move the border outside the container */
+  top: 2px;
+  bottom: 2px;
+  width: var(--heading-border-width);
+  background-color: var(--theme-quote-border);
+  border-radius: 2px; /* Rounded border edges */
+}
+
+/* Code Blocks */
+pre, code {
+  background-color: var(--theme-code-bg);
+  color: var(--theme-code-color);
+  padding: 0.5rem;
+  border-radius: 4px;
+  font-family: var(--ui-font-monospace);
+  font-size: var(--code-blocks-font-size);
+}
+
+pre {
+  line-height: 1.25;
+  overflow-x: auto;
+}
+
+/* Lists */
+ul, ol {
+  margin: 1em 0;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+}
+
+th, td {
+  padding: 0.75em;
+  border: 1px solid var(--theme-border);
+}
+
+thead {
+  background-color: var(--theme-muted);
+  color: white;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+/* Responsive adjustments */
+@media (max-width: 48rem) {
+  body {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: var(--h2-font-size);
+  }
+
+  h2 {
+    font-size: var(--h3-font-size);
+  }
+}
+
