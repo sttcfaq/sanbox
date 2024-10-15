@@ -40,7 +40,6 @@ body {
   line-height: 1.85;
   margin: 0 auto;
   max-width: var(--max-content-width);
-  padding: var(--content-padding);
   box-sizing: border-box;
 }
 
