@@ -128,8 +128,8 @@ blockquote {
   margin: 1.5rem 0;
   font-style: italic;
   position: relative;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 30px;
+  padding-bottom: 30px;
   padding-left: 1.5rem; /* Space for the left border */
 }
 
