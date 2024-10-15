@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="styles1.css">
 
 
 # Astaffort Mods AK47 Géolocalisation
