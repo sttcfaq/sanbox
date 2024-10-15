@@ -34,7 +34,7 @@ Pour faciliter la lecture chaque morceau est représenté par un calque qui peut
 
 Il s’agit de ma première réalisation avec [Umap](https://umap.openstreetmap.fr/fr/), je vous remercie pour votre indulgence.
 
-Ajouter la carte
+[![Explorer la carte](Image URL)]([img/AstaffortMods-AK47Map.png](https://umap.openstreetmap.fr/fr/map/astaffort-mods-geolocalisation-album-ak47_1123722))
 
 # Quelques détails
 
@@ -42,7 +42,6 @@ Pour donner un peu de contexte sur la manière dont certains lieux ont été loc
 
 ## Piqueboufigue
 
->
 > Le mec est déjà devant toi quand tu te traînes à la boulangerie
 > 
 
