@@ -4,7 +4,7 @@
 # Astaffort Mods AK47 Géolocalisation
 
 
-[AK47 est le premier album de Astaffort Mods](https://astaffortmods.bandcamp.com/album/ak-47), la réponse française à [Sleaford Mods](https://www.sleafordmods.com/). Je me suis surpris plusieurs fois à vouloir visualiser les lieux évoqués au long de l’album. Faisant mouche lors de ces premières tentatives, j’ai systématisé la démarche. Alors que j’avais abordé AK47 comme une fiction boostée au Casa, il était de se poser une question : et si tout était vrai ? C’est parti pour une enquête visuelle en sources ouvertes.
+[AK47 est le premier album de Astaffort Mods](https://astaffortmods.bandcamp.com/album/ak-47){:target="_blank" }, la réponse française à [Sleaford Mods](https://www.sleafordmods.com/){:target="_blank" }. Je me suis surpris plusieurs fois à vouloir visualiser les lieux évoqués au long de l’album. Faisant mouche lors de ces premières tentatives, j’ai systématisé la démarche. Alors que j’avais abordé AK47 comme une fiction boostée au Casa, il était de se poser une question : et si tout était vrai ? C’est parti pour une enquête visuelle en sources ouvertes.
 
 Avant de commencer quelques précisions :
 
@@ -16,7 +16,7 @@ Pour des raisons pratiques, seules les villes et département français cités s
 
 Certains lieux ne correspondent pas à une adresse, mais à une zone (ville, département, rocade, canal…), j’ai fait le choix de choisir un point arbitraire pour le représenter (en général la Mairie ou la Préfecture), afin de ne pas surcharger la carte.
 
-Les adresses sont issues de la Base Adresse Nationale. C’est parfois pas hyper précis car certains lieux (le panneau attention chevreuils sur l’A62, le canal de Golfech, mais aussi certaines mairies), ne disposent pas d’adresse normalisée. Pour chacune des localisation, une adresse [What3Words](https://what3words.com) est disponible en description avec une précision à 3 mètres. Moderne.
+Les adresses sont issues de la Base Adresse Nationale. C’est parfois pas hyper précis car certains lieux (le panneau attention chevreuils sur l’A62, le canal de Golfech, mais aussi certaines mairies), ne disposent pas d’adresse normalisée. Pour chacune des localisation, une adresse [What3Words](https://what3words.com){:target="_blank" } est disponible en description avec une précision à 3 mètres. Moderne.
 
 Dernier truc : ça à l’apparence du sérieux, mais on est d’accord, tout ça c’est pour rigoler, ok ?
 
@@ -32,9 +32,9 @@ Pour faciliter la lecture chaque morceau est représenté par un calque qui peut
 - Capture street view
 - Lien web le cas échéant
 
-Il s’agit de ma première réalisation avec [Umap](https://umap.openstreetmap.fr/fr/), je vous remercie pour votre indulgence.
+Il s’agit de ma première réalisation avec [Umap](https://umap.openstreetmap.fr/fr/){:target="_blank" }, je vous remercie pour votre indulgence. Il faut cliquer sur la carte, Github Pages ne permettant pas de l'intégrer ici.
 
-[![Explorer la carte](img/AstaffortMods-AK47Map.png)](https://umap.openstreetmap.fr/fr/map/astaffort-mods-geolocalisation-album-ak47_1123722)
+[![Explorer la carte](img/AstaffortMods-AK47Map.png)](https://umap.openstreetmap.fr/fr/map/astaffort-mods-geolocalisation-album-ak47_1123722){:target="_blank" }
 
 # Quelques détails
 
@@ -46,11 +46,11 @@ Pour donner un peu de contexte sur la manière dont certains lieux ont été loc
 > Le mec est déjà devant toi quand tu te traînes à la boulangerie
 >  
 
-Aucune indication plus précise sur la boulangerie fréquentée par Piqueboufigue. Une recherche Google indique 2 établissements, mais on vérifie tout de même sur le registre du commence pour les sociétés enregistrées à Astaffort ayant pour code [APE 10.71C](https://www.insee.fr/fr/statistiques/7929127?sommaire=7763898) : Boulangerie et Boulangerie pâtisserie.
+Aucune indication plus précise sur la boulangerie fréquentée par Piqueboufigue. Une recherche Google indique 2 établissements, mais on vérifie tout de même sur le registre du commence pour les sociétés enregistrées à Astaffort ayant pour code [APE 10.71C](https://www.insee.fr/fr/statistiques/7929127?sommaire=7763898){:target="_blank" } : Boulangerie et Boulangerie pâtisserie.
 
 Nous avons 9 résultats à 4 adresses différentes. En vérifiant les dates d’activité, nous avons confirmation que 2 boulangeries étaient ouvertes en 2018, année de sortie de l’album :
 
-1. [Le fournil de l’Abbé](https://le-fournil-de-l-abbe-astaffort.eatbu.com) au 2 rue Félix Cassagneau, proche de la Place de la Craste dont nous reparlerons plus bas.
+1. [Le fournil de l’Abbé](https://le-fournil-de-l-abbe-astaffort.eatbu.com){:target="_blank" } au 2 rue Félix Cassagneau, proche de la Place de la Craste dont nous reparlerons plus bas.
 
 ![01-Piqueboufigue-2RueFeliXCassagneau2024-10-02_15-46.png](img/01-Piqueboufigue-2RueFeliXCassagneau2024-10-02_15-46.png)
 
@@ -62,7 +62,7 @@ Nous avons 9 résultats à 4 adresses différentes. En vérifiant les dates d’
 > Pour ce conneau, révision de l'alphabet en commençant par la lettre H : Hôpital, deuxième à droite après le pont mais j'ai pas le temps de t'y déposer, d'ailleurs je suis à pieds ce serait trop galère.
 >  
 
-le [Centre Hospitalier Agen-Nérac](http://www.ch-agen-nerac.fr/) est l’hôpital le plus proche d’Astaffort. Il se situe à une trentaine de minutes de route, à Nérac. Il est en effet à la deuxième à droite après le Pont Neuf. 
+le [Centre Hospitalier Agen-Nérac](http://www.ch-agen-nerac.fr/){:target="_blank" } est l’hôpital le plus proche d’Astaffort. Il se situe à une trentaine de minutes de route, à Nérac. Il est en effet à la deuxième à droite après le Pont Neuf. 
 
 ![01-Piqueboufigue-80AlleeDAlbret2024-10-02_15-46-route-to.png](img/01-Piqueboufigue-80AlleeDAlbret2024-10-02_15-46-route-to.png)
 
@@ -88,7 +88,7 @@ Le road trip égrène 19 références géographiques qui nous permet de suivre p
 > Je me repère avec Golfech
 >  
 
-Golfech fait bien sûr référence à la [centrale nucléaire](https://www.edf.fr/centrale-nucleaire-golfech) du même nom, qui se voit de loin. 
+Golfech fait bien sûr référence à la [centrale nucléaire](https://www.edf.fr/centrale-nucleaire-golfech){:target="_blank" } du même nom, qui se voit de loin. 
 
 ![02-LeShift-golfech.png](img/02-LeShift-golfech.png)
 
@@ -168,13 +168,13 @@ On commence cette virée anxiogène par le péage de l’autoroute E72, gare de 
 
 ![026-A620-GoogleMaps.png](img/026-A620-GoogleMaps.png)
 
-Epineuse question que je me garderais bien trancher. J’avoue ne pas avoir tout saisi [aux explications](https://fr.wikipedia.org/wiki/P%C3%A9riph%C3%A9rique_de_Toulouse) sur le périphérique toulousain. Il compte actuellement 2X3 voies actuellement. J’ai lu des choses étonnantes dur des projets d’agrandissement, notamment en le surélevant ? Tu prends rocade Inférieure ou rocade supérieure ?
+Epineuse question que je me garderais bien trancher. J’avoue ne pas avoir tout saisi [aux explications](https://fr.wikipedia.org/wiki/P%C3%A9riph%C3%A9rique_de_Toulouse){:target="_blank" } sur le périphérique toulousain. Il compte actuellement 2X3 voies actuellement. J’ai lu des choses étonnantes dur des projets d’agrandissement, notamment en le surélevant ? Tu prends rocade Inférieure ou rocade supérieure ?
 
 > 
 > Pas v’nu pour un concert de world à la Mounède
 > 
 
-Ce bâtiment du XVII° siècle aujourd’hui [centre international de séjour](https://www.lamounede.org/l-historique) a été un lieu de diffusion de musiques actuelle à la fin des années 90 et jusqu’en 2012. On peut retrouver quelques mots sur [l’ambiance et la programmation ici](https://blog.culture31.com/2023/03/11/la-mounede-une-odyssee-extraordinaire-a-toulouse/). Le site web de l’asso qui le gérait est [encore en ligne](http://crpc.free.fr/), optimisé pour Internet Explorer 6 ! Le parc de la [Mounède](https://www.francebleu.fr/emissions/les-mots-d-oc/toulouse/la-mounede-toulouse) semble aujourd’hui héberger un festival de musiques électroniques.
+Ce bâtiment du XVII° siècle aujourd’hui [centre international de séjour](https://www.lamounede.org/l-historique){:target="_blank" } a été un lieu de diffusion de musiques actuelle à la fin des années 90 et jusqu’en 2012. On peut retrouver quelques mots sur [l’ambiance et la programmation ici](https://blog.culture31.com/2023/03/11/la-mounede-une-odyssee-extraordinaire-a-toulouse/){:target="_blank" }. Le site web de l’asso qui le gérait est [encore en ligne](http://crpc.free.fr/){:target="_blank" }, optimisé pour Internet Explorer 6 ! Le parc de la [Mounède](https://www.francebleu.fr/emissions/les-mots-d-oc/toulouse/la-mounede-toulouse){:target="_blank" } semble aujourd’hui héberger un festival de musiques électroniques.
 
 ## Champignon
 
@@ -258,13 +258,13 @@ Administrativement, le kiosque se situe place André Routier (maire entre 1925 e
 
 ![06-JunesDuDimanche-Places-2024-10-12_14-46.png](img/06-JunesDuDimanche-Places-2024-10-12_14-46.png)
 
-Pour être complet sur la Place André Routier, elle fait l’objet de [travaux de sécurisation](https://www.sudouest.fr/lot-et-garonne/astaffort/astaffort-un-projet-d-amenagement-des-espaces-publics-du-bourg-17439719.php). J’ai hâte de voir le prochain passage de la Google Car !
+Pour être complet sur la Place André Routier, elle fait l’objet de [travaux de sécurisation](https://www.sudouest.fr/lot-et-garonne/astaffort/astaffort-un-projet-d-amenagement-des-espaces-publics-du-bourg-17439719.php){:target="_blank" }. J’ai hâte de voir le prochain passage de la Google Car !
 
 > 
 > D'ailleurs, ils ont fait un clip de Hip hop avec leur téléphone, et ils ont bien du mérite parce qu'il a fallu faire plus de 30 bornes pour trouver un bâtiment de plus d'un étage. On a reconnu la cage d'escaliers du lycée pro, c'est bien, c'est ghetto,
 > 
 
-Sans difficulté, on peut trouver les [4 lycées professionnels](https://college-lycee.com/carte-des-lycees-professionnels/Astaffort-47015#carte) dans un rayon de 30km, à Agen et Lectoure. Le lycée Jean Monnet à Foulayronnes dispose d’un [escalier extérieur spectaculaire](https://lp-jean-monnet.fr/letablissement/) qui pourrait se prêter au décor de notre clip. 
+Sans difficulté, on peut trouver les [4 lycées professionnels](https://college-lycee.com/carte-des-lycees-professionnels/Astaffort-47015#carte){:target="_blank" } dans un rayon de 30km, à Agen et Lectoure. Le lycée Jean Monnet à Foulayronnes dispose d’un [escalier extérieur spectaculaire](https://lp-jean-monnet.fr/letablissement/){:target="_blank" } qui pourrait se prêter au décor de notre clip. 
 
 ![046-LyceeProfessionnelRegionalJeanMonnet-GoogleMaps.png](img/046-LyceeProfessionnelRegionalJeanMonnet-GoogleMaps.png)
 
@@ -282,7 +282,7 @@ Celui-ci n’a pas été le plus simple à localiser. Après avoir parcouru un b
 > Ici à Astaffort on n’a pas de supermarché, pas de quincaillerie et un très mauvais boulanger, faut se souquer le mercredi pour aller au marché.
 >
 
-C’est le morceau problématique de l’album. Astaffort y est dépeint comme une commune dépourvue de tout commerce hormis une boulangerie. En réalité, la commune dispose de plusieurs commerces, comme en atteste le [site de la Mairie](http://ville-astaffort.fr/page/les-entreprises-commerces-et-services-locaux) et la signalétique de la voirie. Il n’y a certes pas de Casto, mais un Brico M et un Point P, *rien que ça*.
+C’est le morceau problématique de l’album. Astaffort y est dépeint comme une commune dépourvue de tout commerce hormis une boulangerie. En réalité, la commune dispose de plusieurs commerces, comme en atteste le [site de la Mairie](http://ville-astaffort.fr/page/les-entreprises-commerces-et-services-locaux){:target="_blank" } et la signalétique de la voirie. Il n’y a certes pas de Casto, mais un Brico M et un Point P, *rien que ça*.
 
 ![07cestquoicesconneries-panneauCommerces.png](img/07cestquoicesconneries-panneauCommerces.png)
 
@@ -290,7 +290,7 @@ C’est le morceau problématique de l’album. Astaffort y est dépeint comme u
 
 Nous avons vu précédemment qu’il existe 2 boulangeries à Astaffort, ce qui est bien pratique pour notre narrateur qui pourra toujours aller acheter son pain dans l’autre !
 
-Enfin, nulle trace de marché le mercredi, mais il y en existe le [lundi](https://www.jours-de-marche.fr/47220-astaffort/) et le [samedi](https://www.petitfute.com/v2353-astaffort-47220/c650-produits-gourmands-vins/c1106-marches-halles/152583-marches.html).
+Enfin, nulle trace de marché le mercredi, mais il y en existe le [lundi](https://www.jours-de-marche.fr/47220-astaffort/){:target="_blank" } et le [samedi](https://www.petitfute.com/v2353-astaffort-47220/c650-produits-gourmands-vins/c1106-marches-halles/152583-marches.html){:target="_blank" }.
 
 ## Denis
 
@@ -308,6 +308,6 @@ Il existe un garage à Astaffort, mais celui-ci ne propose pas de contrôle tech
 > J'espère qu'il vont pas nous faire jouer sur le stabilisé. Ouais remarque c'est ça ou leur foutu champ en jachère
 > 
 
-La ville de Tonneins dispose de plusieurs stades. Si le stade Jean Bernège et sa tribune de 330 places loge les treizistes des [Phoenix de Tonneins](https://www.tonneins13.fr/), on peut jouer au foot sur les 2 terrains de la Plaine des sports ou sur celui du complexe Germillac. Le [site de la mairie](https://www.mairie-tonneins.fr/1/vivre-a-tonneins/sports-et-loisirs/les-installations-sportives) ne mentionne pas de stabilisé mais que des terrains en gazon. La FFF mentionne [3 terrains à la même adresse](https://www.fff.fr/competition/club/518161-tonneins-f-c/information.html), mais je ne comprends pas vraiment où ils les trouvent. Les déplacements pour un match à Tonneins, ça fait une [bonne idée de morceau](https://www.sudouest.fr/sport/football/football-trois-questions-au-coach-de-tonneins-j-espere-que-nous-n-avons-pas-flingue-notre-saison-19082228.php) (l’article est postérieur à la sortie de l’album).
+La ville de Tonneins dispose de plusieurs stades. Si le stade Jean Bernège et sa tribune de 330 places loge les treizistes des [Phoenix de Tonneins](https://www.tonneins13.fr/){:target="_blank" }, on peut jouer au foot sur les 2 terrains de la Plaine des sports ou sur celui du complexe Germillac. Le [site de la mairie](https://www.mairie-tonneins.fr/1/vivre-a-tonneins/sports-et-loisirs/les-installations-sportives){:target="_blank" } ne mentionne pas de stabilisé mais que des terrains en gazon. La FFF mentionne [3 terrains à la même adresse](https://www.fff.fr/competition/club/518161-tonneins-f-c/information.html){:target="_blank" }, mais je ne comprends pas vraiment où ils les trouvent. Les déplacements pour un match à Tonneins, ça fait une [bonne idée de morceau](https://www.sudouest.fr/sport/football/football-trois-questions-au-coach-de-tonneins-j-espere-que-nous-n-avons-pas-flingue-notre-saison-19082228.php){:target="_blank" } (l’article est postérieur à la sortie de l’album).
 
 ![059-2RueJudePatissie-GoogleMaps.png](img/059-2RueJudePatissie-GoogleMaps.png)
