@@ -94,24 +94,31 @@ p {
   margin-bottom: 1.3rem;
 }
 
-/* Blockquotes inside .markdown-body */
+/* Reset GitHub's blockquote styles */
 .markdown-body blockquote {
-  background-color: var(--theme-quote-bg) !important;
-  padding: 20px 1rem !important;
-  margin: 1.5rem 0 !important;
-  font-style: italic !important;
-
+  border-left: none !important;
+  background: none !important;
 }
 
-/* Blockquote border inside .markdown-body */
-.markdown-body blockquote::before {
+/* Blockquotes */
+blockquote {
+  position: relative;
+  background-color: var(--theme-quote-bg);
+  padding: 20px 1rem !important;
+  margin: 1.5rem 0;
+  font-style: italic;
+  box-sizing: border-box;
+}
+
+/* Blockquote border */
+blockquote::before {
   content: '';
   position: absolute;
   left: -1rem; /* Move the border outside the container */
   top: 0;
   bottom: 0;
   width: 4px;
-  background-color: var(--theme-quote-border) !important;
+  background-color: var(--theme-quote-border);
   border-radius: 2px; /* Rounded border edges */
 }
 
