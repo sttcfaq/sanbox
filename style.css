@@ -94,8 +94,8 @@ p {
   margin-bottom: 1.3rem;
 }
 
-/* Blockquotes */
-blockquote {
+/* Blockquotes inside .markdown-body */
+.markdown-body blockquote {
   position: relative;
   background-color: var(--theme-quote-bg);
   padding: 20px 1rem !important;
@@ -104,8 +104,8 @@ blockquote {
   box-sizing: border-box;
 }
 
-/* Blockquote border */
-blockquote::before {
+/* Blockquote border inside .markdown-body */
+.markdown-body blockquote::before {
   content: '';
   position: absolute;
   left: -1rem; /* Move the border outside the container */
