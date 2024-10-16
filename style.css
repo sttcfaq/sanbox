@@ -32,13 +32,14 @@ body {
 h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding-left: 1.5rem; /* Space for the left border */
+  border-bottom: none !important;
 }
 
 /* Heading borders */
 h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
   content: '';
   position: absolute;
-  left: 0; /* Position border on the left */
+  left: -1rem; /* Move the border outside the container */
   top: 0;
   bottom: 0;
   width: 4px;
