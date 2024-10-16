@@ -96,11 +96,24 @@ p {
 
 /* Blockquotes */
 blockquote {
-  border-left: 8px solid var(--theme-quote-border);
+  position: relative;
   background-color: var(--theme-quote-bg);
-  padding: 20px 1rem !important; /* Ensure padding-top and padding-bottom are applied */
+  padding: 20px 1rem !important;
   margin: 1.5rem 0;
   font-style: italic;
+  box-sizing: border-box;
+}
+
+/* Blockquote border */
+blockquote::before {
+  content: '';
+  position: absolute;
+  left: -1rem; /* Move the border outside the container */
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background-color: var(--theme-quote-border);
+  border-radius: 2px; /* Rounded border edges */
 }
 
 /* Code Blocks */
