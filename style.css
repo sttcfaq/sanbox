@@ -84,7 +84,7 @@ p {
 blockquote {
   border-left: 8px solid var(--theme-quote-border);
   background-color: var(--theme-quote-bg);
-  padding: 1rem;
+  padding: 20px 1rem !important; /* Ensure padding-top and padding-bottom are applied */
   margin: 1.5rem 0;
   font-style: italic;
 }
